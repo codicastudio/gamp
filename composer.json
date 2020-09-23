@@ -1,9 +1,7 @@
 {
     "name": "codica-studio/gamp",
     "description": "A random Codica Studio package.",
-    "keywords": [
-        ""
-    ],
+
     "homepage": "https://github.com/codica-studio/gamp",
     "license": "MIT",
     "authors": [
