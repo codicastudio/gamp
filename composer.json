@@ -1,5 +1,5 @@
 {
-    "name": "codica-studio/gamp",
+    "name": "codicastudio/gamp",
     "description": "A random Codica Studio package.",
 
     "homepage": "https://github.com/codicastudio/gamp",
@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "php": "^7.2",
+        "php": "^7.4 || ^8.0",
         "illuminate/support": "^8.0",
         "theiconic/php-ga-measurement-protocol": "^2.0"
     },
@@ -35,7 +35,6 @@
             }
         }
     },
-    "suggest": {
-        "irazasyed/larasupport": "Adds Package Support in Lumen, Lets you install any Laravel Package."
-    }
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
